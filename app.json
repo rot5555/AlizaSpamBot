@@ -15,7 +15,7 @@
   "env": {
     "BOT_TOKEN1": {
       "description": "Enter Your Bot Token 1. Master Bot (Main Bot). Get It From @BotFather!",
-      "value": ""
+      "value": "7899033434:AAHpIWmOSgqmhNXCVLP7kxZiOzHqK6b7YU0"
     },
     "BOT_TOKEN2": {
       "description": "Enter Your Bot Token 2. Get It From @BotFather!",
